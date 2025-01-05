@@ -1,12 +1,12 @@
-name = "ModGay"
-author = "Dojoji"
-version = "1.0.0"
+name = "ModpackMC"
+author = "MiloHakai x Dojoj"
+version = "0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "26118fbf0cf1b8a5efdbc4e1023a281bfdee9d77fc0fb7e0750096b924bb1964"
+hash = "6b9f5ccbe2125df21848bea77e20e2186d8b31238c7c3a18253085d877fef379"
 
 [versions]
 fabric = "0.16.9"
