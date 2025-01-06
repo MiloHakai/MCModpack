@@ -13,5 +13,10 @@ file = "gitignore.txt"
 hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
+file = "mods/gitdl.pw.toml"
+hash = "c06af19f2f9c51b3ba14427ca67134e99fc11e4459d13872d1405a639cdd0efd"
+metafile = true
+
+[[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.3.zip"
 hash = "66061b3c5b4843e31bc9a7562a7ac697a51bb77c73defc7071f996b783efacce"
