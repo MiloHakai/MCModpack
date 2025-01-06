@@ -597,8 +597,8 @@ file = "mods/notenoughanimations-fabric-1.9.0-mc1.21.jar"
 hash = "86235fc3c2fb5a8b3eba1c436543591cd081238b85c35b5143f6503e0c1c2a9c"
 
 [[files]]
-file = "mods/old_combat_mod-1.1.1.jar"
-hash = "5e15f0c34280374d26aadf5d8d7325f1e71d84a06cd5816e8bf26a089cecbb38"
+file = "mods/old-combat-mod-1.1.1.jar"
+hash = "99ab9bc11548d75cb1a26831db6a07392d8ed86e684e77a94a78882276bebbdd"
 
 [[files]]
 file = "mods/owo-lib-0.12.15+1.21.jar"
