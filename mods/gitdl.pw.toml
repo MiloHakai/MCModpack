@@ -1,7 +1,0 @@
-name = "gitdl"
-filename = "MCModpack"
-
-[download]
-url = "https://github.com/MiloHakai/MCModpack"
-hash-format = "sha256"
-hash = "65da723ca87c7a60745eac05dfde11258e8b9a7f60c89b94d849edd7bd1856e8"
