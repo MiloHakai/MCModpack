@@ -381,6 +381,10 @@ file = "mods/ferritecore-7.0.2-hotfix-fabric.jar"
 hash = "e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa"
 
 [[files]]
+file = "mods/fire_extinguisher-fabric-1.21.1-8.1.0.jar"
+hash = "8c12dd63864e69930bb837aa109fb2f206392bb4db0be2bb61f11ab9598de56d"
+
+[[files]]
 file = "mods/firstperson-fabric-2.4.8-mc1.21.jar"
 hash = "4d6c738c114d111c4ed8cdad9b57df30fa2ff7e453402bb887baba859125a848"
 
@@ -547,6 +551,10 @@ hash = "5553a4cfd7616ac13e0919cb4f8f52be6aeb78e7a487222af96142988ae139d4"
 [[files]]
 file = "mods/moonlight-1.21-2.17.12-fabric.jar"
 hash = "c5a21dfeb97808d08bddf26b93dc9bbde63ff741c1b786bb9f06b7277a8491f4"
+
+[[files]]
+file = "mods/more_mobs-v1.5.4-mc1.14x-1.21x-mod.jar"
+hash = "22f61dc09aebc874a7c3b356418e065196b4720c8eb2cea657e4fea8cd01e6bf"
 
 [[files]]
 file = "mods/moyai-1.21-2.1.5-fabric.jar"
