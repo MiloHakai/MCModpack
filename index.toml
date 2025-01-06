@@ -545,6 +545,10 @@ file = "mods/modelfix-1.21-1.6-fabric.jar"
 hash = "53a0701f3583e2b794825858d2e4b7613df8b2dd22c277544c4b55f4bd08537a"
 
 [[files]]
+file = "mods/modmenu-11.0.3.jar"
+hash = "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428"
+
+[[files]]
 file = "mods/monolib-fabric-1.21.1-1.4.1.jar"
 hash = "5553a4cfd7616ac13e0919cb4f8f52be6aeb78e7a487222af96142988ae139d4"
 
@@ -591,6 +595,10 @@ hash = "9ea5fbe46c5e36fc0e4199e566fffa586150ac02b4ffab3283356462fd15af73"
 [[files]]
 file = "mods/particle-rain-3.0.5.jar"
 hash = "4cc0ff16a6782ec4630ec4145b1999e86af58db1c253f75effb75e7d2569d851"
+
+[[files]]
+file = "mods/placeholder-api-2.4.1+1.21.jar"
+hash = "4ff847074a09e4d66a94b0de278c732626f160c2d759f16e9e92001ab9a79b70"
 
 [[files]]
 file = "mods/plushables-fabric-2.0.3+1.21.1.jar"
