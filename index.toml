@@ -205,6 +205,10 @@ file = "mods/bookshelf-fabric-1.21.1-21.1.29.jar"
 hash = "ed591440351df39abb09c8adb00df90e2b6d4878662af5b7f3ffc74956880969"
 
 [[files]]
+file = "mods/bundle-recipe-v1.0.3.jar"
+hash = "95274293762904911f1ae0208e203ae6e5ab198306b4e090a83d33292da9a6ed"
+
+[[files]]
 file = "mods/carryon-fabric-1.21.1-2.2.2.11.jar"
 hash = "803d60e5938ad6ec67bdfdf09e6c718eae3265f63e0dbdd2dfdd919c30f5524d"
 
@@ -445,6 +449,10 @@ file = "mods/iris-fabric-1.8.1+mc1.21.1.jar"
 hash = "0ee4559f66da150b1a4a9dd98239248b487fd57c3381b1e69a5dba271d2c1345"
 
 [[files]]
+file = "mods/itemalchemy-1.0.8.jar"
+hash = "4c6c57ac0c8a4d802fa0cf0f902589720aac896c859c528acb5d8272e4481540"
+
+[[files]]
 file = "mods/jamlib-fabric-1.2.2-build.2+1.21.1.jar"
 hash = "d78aebb16014c3c7f59371b9e41890635ed6a8a035c68b811d9fb6dccb7fb90c"
 
@@ -459,6 +467,10 @@ hash = "64fd708e1fe003f66df81c18e3b0179df94caf6b102a1ea215b33cb08659f7ad"
 [[files]]
 file = "mods/kleeslabs-fabric-1.21.1-21.1.1.jar"
 hash = "0b0c179fa48f4c49ff15c1d3865b1a798be7ab8bf6bbc3e8f1e7dd5c22f2ce78"
+
+[[files]]
+file = "mods/lavender-0.1.14+1.21.jar"
+hash = "35128c4ac0e7b4081e62f9cc35e8e07492b32edb85b80583f68ca3deb9ee4c9c"
 
 [[files]]
 file = "mods/leaky-fabric-1.21-2.1.jar"
@@ -487,6 +499,10 @@ hash = "92233bf94307bfe4c00cba643a4dd700dc7cb66cf79dae41b91498ab7b1f5828"
 [[files]]
 file = "mods/macawsroofsbop-fabric-1.21-1.0.jar"
 hash = "cac7ecf1dc314565ff21904949918a7b45741918058f21689c16e19ddc90911d"
+
+[[files]]
+file = "mods/mcpitanlib-3.1.3-1.21.1-fabric.jar"
+hash = "4d40d901d3baf57c2e186c141f80d5fe3b7d40b6b6195d8a780a4e5b1c538e0b"
 
 [[files]]
 file = "mods/mcw-bridges-3.0.0-mc1.21.1fabric.jar"
@@ -585,6 +601,10 @@ file = "mods/notenoughanimations-fabric-1.9.0-mc1.21.jar"
 hash = "86235fc3c2fb5a8b3eba1c436543591cd081238b85c35b5143f6503e0c1c2a9c"
 
 [[files]]
+file = "mods/old_combat_mod-1.1.1.jar"
+hash = "5e15f0c34280374d26aadf5d8d7325f1e71d84a06cd5816e8bf26a089cecbb38"
+
+[[files]]
 file = "mods/owo-lib-0.12.15+1.21.jar"
 hash = "07075ed83b07bf70c3c4a0f652f14b0e8f5733ba56ae1b5641c14aa20f5073c9"
 
@@ -643,6 +663,10 @@ hash = "afe31dea554b3468ffa387450caadfea8ca49dd02f21c5e2572177f14650de5d"
 [[files]]
 file = "mods/rrls-5.0.8+mc1.21.1-fabric.jar"
 hash = "b2743f2f4a9b0a4a287a20ad5eff552a536237ccd111244e57024351faaa3b8b"
+
+[[files]]
+file = "mods/show-dimension-in-name-v.2.4.0.jar"
+hash = "737b04cd5dc7afd0006ff963a0dcb04351ab85546fc7e04dffb56d8b0b182f53"
 
 [[files]]
 file = "mods/simplehats-fabric-1.21.1-0.4.0.jar"
@@ -711,6 +735,10 @@ hash = "9366ab7206562b165786cca65cb7cd6843dd33c3e82734d841f6d0cec9616d79"
 [[files]]
 file = "mods/the_afterdark-1.21.1-fabric-1.0.3.1.jar"
 hash = "05f178697d3f0bd2b13b8f7368b15ebc456a3badb4b6066b285b24d45b521c07"
+
+[[files]]
+file = "mods/things-0.4.2+1.21.jar"
+hash = "27aa08556ced77becfbd6b75dec6b0697cfbf2c62ab4a9b2f1e2281fbf7e7e30"
 
 [[files]]
 file = "mods/trashcans-1.0.18-fabric-mc1.21.jar"
