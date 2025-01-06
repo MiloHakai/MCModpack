@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/accessories-fabric-1.1.0-beta.19+1.21.1.jar"
+hash = "8691bb21b06fd2201b28e7d513a01d3d35cb25da004b7e1000fe1d067414b9f9"
