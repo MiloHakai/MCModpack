@@ -1,0 +1,13 @@
+filename = 'condensed_creative-3.4.1+1.21-fabric.jar'
+name = 'Condensed Creative'
+side = 'client'
+
+[download]
+hash = '49781629dd317d89279682e52daa63143fdc4e1c9a7bf0addeeaeeac565b8585fa0c03f5381e376ea2849b8afd4604fbb9583908393164b84b7b5350de2f9736'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Zw7fMbBg/versions/Vh2wcDrI/condensed_creative-3.4.1%2B1.21-fabric.jar'
+
+[update.modrinth]
+mod-id = 'Zw7fMbBg'
+version = 'Vh2wcDrI'
