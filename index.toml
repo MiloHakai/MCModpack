@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "efef6caa0567674e435055f3243694bd1ef899af327c3d45233f9bfe95501416"
+
+[[files]]
+file = "config/betterf3.toml"
+hash = "913453e1264992e06d38caa8a895162ae7d1a77362cbfd6a9d59073f66d6637d"
+
+[[files]]
 file = "mods/.index/cloth-config.pw.toml"
 hash = "a96aeb583bc38a3a3a49b75d43a9d578391579dd3712b5051ce7eda82f6cbd90"
 metafile = true
@@ -95,8 +103,20 @@ file = "mods/AmbientSounds_FABRIC_v6.1.4_mc1.21.1.jar"
 hash = "d03fea08cc041b808dd153bcedefa7a24ffce5a7b54e6dcf596a24fd1a5536c6"
 
 [[files]]
+file = "mods/BadOptimizations-2.2.1-1.21.1.jar"
+hash = "d9f5345c809ff23f90d9a1aef785643bc1a78ee1adaadb58f7772205a37b8bc9"
+
+[[files]]
+file = "mods/BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar"
+hash = "7542d8f2f280fad5698f114ab28c28300e52bdcf80622f3c104b96434162fcf5"
+
+[[files]]
 file = "mods/BetterCompatibilityChecker-fabric-21.1.0+mc1.21.1.jar"
 hash = "558613643f124ebe94efb3d5f2903f35738195208ac947abe1a149e3aab83570"
+
+[[files]]
+file = "mods/BetterF3-11.0.3-Fabric-1.21.1.jar"
+hash = "e0e4bb25fbe23b16b7574474ee9fde5cdc9757d05885bc43978f4ea5e8e258ad"
 
 [[files]]
 file = "mods/BetterPingDisplay-Fabric-1.21.1-1.1.1.jar"
@@ -157,6 +177,10 @@ hash = "cc66534c973fc9d466a789d3d46a4ebfdbea09be481c0a0e7ddcc75ebe55c635"
 [[files]]
 file = "mods/GlitchCore-fabric-1.21.1-2.1.0.0.jar"
 hash = "8ded94d33f1f1bdae9a845c35c3e4358528d71e2c45ad5642acfa9280e53fb47"
+
+[[files]]
+file = "mods/GpuTape-1.21x-1.18x-1.0.5.jar"
+hash = "deb2f3ee88c3a9c1c1949344b55cefc30f16dd42e4840cbad804042e4ebf8301"
 
 [[files]]
 file = "mods/IronChests-2.0.4.jar"
@@ -339,6 +363,10 @@ file = "mods/comforts-fabric-9.0.3+1.21.1.jar"
 hash = "d5d9e6ee28514f955849070554def4414be7a84171a9d057897af3fb5f9730a5"
 
 [[files]]
+file = "mods/concentration-fabric-1.21-2.3.0.jar"
+hash = "6876058c17c9e46b6b98d38ec8a6dacbf1d7566dcc7c3b638817ad8aa2c9ee1c"
+
+[[files]]
 file = "mods/condensed_creative-3.4.1+1.21-fabric.jar"
 hash = "127b79cf5ceb18f3c4ebc3810e281bdac9e397bcb98f3200198444fd52d795f9"
 
@@ -369,6 +397,10 @@ hash = "3ca7520a9f326ba3dd531a676e5de48ae4c04f2fa0d9ce2b28be87e28377fac4"
 [[files]]
 file = "mods/cushypillows-1.0.2+1.21.jar"
 hash = "4a368eac240ec8ba0303bded458843f75bc0347048c128868cb6af813e3f8201"
+
+[[files]]
+file = "mods/dark-loading-screen-1.6.14.jar"
+hash = "dd8a1850675a185d013fac3afa0675a6422e5d8f89c0e421d83e23ca9b1c0b76"
 
 [[files]]
 file = "mods/deeper_dark-3.0.4.jar"
@@ -409,6 +441,14 @@ hash = "0f56d957f7c1c5874f9e69b55ad1f2e18f3e4a55f430bdb954b12331ade1e7e4"
 [[files]]
 file = "mods/enchdesc-fabric-1.21.1-21.1.5.jar"
 hash = "dc3bcf6580109c206c4fb5fd499aa5f638035697f89b2f4ca16a25ad5a598913"
+
+[[files]]
+file = "mods/enhanced_attack_indicator-1.1.0+1.21.jar"
+hash = "974778b105c615cdbdd4ed19873ed744d3f1b398d6aeb1d3c73306763e53d2ad"
+
+[[files]]
+file = "mods/enhancedblockentities-0.10.2+1.21.jar"
+hash = "61396ddd5990ae8177165492067c4b02e2ebacbd7be3e97eb37a46aae13c9679"
 
 [[files]]
 file = "mods/entity_model_features_fabric_1.21.1-2.4.1.jar"
@@ -457,6 +497,10 @@ hash = "c709416512c59958e4f00d2fa318a81436f14caa32554a8e5a97bfd13dfb9524"
 [[files]]
 file = "mods/fallingleaves-1.16.4+1.21.1.jar"
 hash = "80ead0e0046abd7f2d072f939289587c4fcdb774a73098ac3e1bb19ffc1994ce"
+
+[[files]]
+file = "mods/fast-chest-1.7+1.20.2.jar"
+hash = "79c6b4ff3fed1c9b749066f617b16d5871bcf91803d49b4db647397af7a345c4"
 
 [[files]]
 file = "mods/fast-ip-ping-v1.0.5-mc1.21.1-fabric.jar"
@@ -541,6 +585,10 @@ hash = "7e5d5087689beb49c1e6239290530549e96fc86e0e2046b7262e22ad42622d3c"
 [[files]]
 file = "mods/journeymap-fabric-1.21.1-6.0.0-beta.32.jar"
 hash = "64fd708e1fe003f66df81c18e3b0179df94caf6b102a1ea215b33cb08659f7ad"
+
+[[files]]
+file = "mods/jumpoverfences-fabric-1.21-1.6.0.jar"
+hash = "68e323a3c00539b6a6ac93ce9a52f381702fc3ed8bab7bfd3bdad1345b550513"
 
 [[files]]
 file = "mods/lavender-0.1.14+1.21.jar"
@@ -675,6 +723,10 @@ file = "mods/nicer-skies-1.4.1+1.21.1.jar"
 hash = "0f0a859a03ae9ae29dcc62a9cd49a50a8bc92b2ee3b8f223b4e25bbd8800d18e"
 
 [[files]]
+file = "mods/noisium-fabric-2.3.0+mc1.21-1.21.1.jar"
+hash = "c32c163861e936b7786995ebe1209eb7a4c6e7bb493e7cc75747ddac3340cf85"
+
+[[files]]
 file = "mods/notenoughanimations-fabric-1.9.0-mc1.21.jar"
 hash = "86235fc3c2fb5a8b3eba1c436543591cd081238b85c35b5143f6503e0c1c2a9c"
 
@@ -749,6 +801,10 @@ hash = "815bb2d3b0128a2409f936005f8fe3355d634d6a353a0045a73e4b73d9d227f8"
 [[files]]
 file = "mods/skinlayers3d-fabric-1.7.4-mc1.21.jar"
 hash = "32b6036d2953cac9b503de715064454da2d16c4d60dfd63dc6d3a33accec67fb"
+
+[[files]]
+file = "mods/skiptransitions-1.4.0+mc1.21.jar"
+hash = "d5051add2afe5d266c1ac95477384c04e6aedce57e4592a15da0ca0bace59db8"
 
 [[files]]
 file = "mods/smallships-fabric-1.21.1-2.0.0-b2.1.jar"
@@ -839,6 +895,10 @@ file = "mods/utility-belt-fabric-2.6.0+1.21.1.jar"
 hash = "f70185a9324e9262ffc19049d8f4cb52c7a5bc5762a726ed09242e908f5b8274"
 
 [[files]]
+file = "mods/volumefix-1.2.0+1.21.jar"
+hash = "adc73d2b8cf5cdcb32f0bbc4ad61b88bc0d798fb288b0005bee7a5c348c2280d"
+
+[[files]]
 file = "mods/wakes-0.3.0+1.21.1.jar"
 hash = "11c8a755f92fa6f56827cf4499077fe367976e60c6b7a1b22610db8f4d489771"
 
@@ -875,12 +935,36 @@ file = "mods/youre-in-grave-danger-fabric-2.4.11.jar"
 hash = "19a9d038e8f708aeb71a7fbd1ec14303a3d1d0f0d20f0fd57cac788c196d2cf2"
 
 [[files]]
+file = "resourcepacks/Default Dark - New.zip"
+hash = "5e21eefef40615ce102207ff0ca5ec62e57ce9c3e8e78c48008f774137907654"
+
+[[files]]
+file = "resourcepacks/FA+All_Extensions-v1.4.zip"
+hash = "cf6425feb0bad40c9124c361c4d962ee557fea6dfde5799b04560b8fb0f72961"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.9.3.zip"
+hash = "aa3812ae5fb96a22590ff2ccb53f589a9de9081c11e1432c871cc11fa87c9252"
+
+[[files]]
+file = "resourcepacks/Glowing_v0.4.1-mc1.21.zip"
+hash = "5e9705d20b61381bae80a3e4668484ff910adef7d4d71db8fe27a30e644f62a5"
+
+[[files]]
+file = "resourcepacks/LowOnFire 1.21.4.zip"
+hash = "1b31679711108f2cacf7164e57375f41bece505b0348c67a6c1cc6d3ec659231"
+
+[[files]]
 file = "shaderpacks/BSLClassic_v8.4.01.2.zip"
 hash = "ee38e41134bc86a8de76f5cc8ed47d72405e32fc62db56e480d307332acadc06"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.3.zip"
 hash = "66061b3c5b4843e31bc9a7562a7ac697a51bb77c73defc7071f996b783efacce"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.3.zip.txt"
+hash = "acc8bb9746d85fd5207dd2b4a9d0c89b3f80a547514ef86a314980438d4d4626"
 
 [[files]]
 file = "shaderpacks/MakeUp-UltraFast-9.1b.zip"
