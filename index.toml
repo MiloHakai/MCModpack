@@ -167,10 +167,6 @@ file = "mods/Debugify-1.21.1+1.0.jar"
 hash = "e61e83875190150337a2366d9374f04865654de7bdf83e6ab29d9915899f8d7a"
 
 [[files]]
-file = "mods/Emojiful-Fabric-1.21-5.1.5.jar"
-hash = "49fb7c4dba8f92002aaeff170c5c4f926d925a4590262c1c62155ca3769971df"
-
-[[files]]
 file = "mods/FabricShieldLib-1.7.2-1.21.1.jar"
 hash = "ed78792595ce0410da1e88124429aaa95f6549a23d69af674acd53ef69fdb5bb"
 
