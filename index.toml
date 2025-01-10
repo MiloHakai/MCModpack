@@ -99,6 +99,10 @@ hash = "4208de06a77cdd8a10ef99ab78a54e12db9e63c4c546edc6de864518ef68123b"
 metafile = true
 
 [[files]]
+file = "mods/Actual Fishing-1.21.1-1.0.1-Fabric.jar"
+hash = "3381922846cebd60135b47e8c81278219af915ab28ed03cff5db545174be4daa"
+
+[[files]]
 file = "mods/AmbientSounds_FABRIC_v6.1.4_mc1.21.1.jar"
 hash = "d03fea08cc041b808dd153bcedefa7a24ffce5a7b54e6dcf596a24fd1a5536c6"
 
@@ -227,6 +231,10 @@ file = "mods/UniLib-1.0.4+1.21.1-fabric.jar"
 hash = "380a83200930132939e107be3b421e615dfb837db173ec77ac8ba5683282e70f"
 
 [[files]]
+file = "mods/UnionLib-1.21.1-12.0.9-Fabric.jar"
+hash = "bcaf63ff5eec31b723d41c190b4772d41a95e09ae92b25cf496721ceec0660a8"
+
+[[files]]
 file = "mods/VisualWorkbench-v21.1.0-1.21.1-Fabric.jar"
 hash = "5045fe66e6f6c1095b9aade7c798e387297cca2818740546c18c8a1aa8beb342"
 
@@ -299,6 +307,10 @@ file = "mods/betterbeds-fabric-1.4.0.jar"
 hash = "d707f5df1c45150eb18b3135380519e74dd9103673a71032ef3de2b9038424aa"
 
 [[files]]
+file = "mods/bettercombat-fabric-2.0.4+1.21.1.jar"
+hash = "6216017a35aab5736c4b301b08c4a70fcf1b7045a2fea3ecdf7b1bf19559e1cd"
+
+[[files]]
 file = "mods/betterfpsdist-fabric-1.21-6.0.jar"
 hash = "c61322ae55c66f6789eb86b6e19d2af588ca6e6fa97afec65b18cf69985b91fd"
 
@@ -359,6 +371,10 @@ file = "mods/collective-1.21.1-7.87.jar"
 hash = "ecb78412bf888359789e3c0b59d85f7fbe16173afaf930b88cde1175e506951d"
 
 [[files]]
+file = "mods/combatplus-core-3.1.0+1.21.jar"
+hash = "b2769e2f9fd52f2ae4a43700e72b9d95bb055b31946c11d7daa6b54a19bbfb0f"
+
+[[files]]
 file = "mods/comforts-fabric-9.0.3+1.21.1.jar"
 hash = "d5d9e6ee28514f955849070554def4414be7a84171a9d057897af3fb5f9730a5"
 
@@ -417,6 +433,10 @@ hash = "25f593951e6cf682f105d60280901a3bbb68b32c6f34046ad4dbc46ae39dc095"
 [[files]]
 file = "mods/do_a_barrel_roll-fabric-3.7.2+1.21.jar"
 hash = "dc540928574b61c0473bd82239117c03e7dacbf865b99b16f504a1f97366113b"
+
+[[files]]
+file = "mods/dual-swords-2.0.0+1.21.jar"
+hash = "5c8ea725d1512b86cfc388418ac1784b3138b7a35db625216377c7066fba2308"
 
 [[files]]
 file = "mods/durabilitytooltip-1.1.5-fabric-mc1.21.jar"
@@ -525,6 +545,10 @@ hash = "4d6c738c114d111c4ed8cdad9b57df30fa2ff7e453402bb887baba859125a848"
 [[files]]
 file = "mods/flow-2.2.0+1.21.jar"
 hash = "022f3f6b497faa348996dca490128827d717c906b61bd2d1112bdf510293451e"
+
+[[files]]
+file = "mods/fowlplay-1.0.0-beta.3+1.21.1.jar"
+hash = "c12a6a0b7bcb7d3163cc064d1a5161e2511a65083ea71259831c0b62b179faa4"
 
 [[files]]
 file = "mods/fpsdisplay-4.2.1+1.21.1.jar"
@@ -715,6 +739,10 @@ file = "mods/netherdepthsupgrade-fabric-3.1.8-1.21.jar"
 hash = "dbb59022e0cc9df29d5109a0ef35328a02fdc3c731bbb9ac537221ded85b5a69"
 
 [[files]]
+file = "mods/netherweather-1.1.1.jar"
+hash = "d9c9b0ca82fa0a3d5abc33521cf62279fdd00205ce282b1329d8c3a798f3b11e"
+
+[[files]]
 file = "mods/new_shield_variants-merged-1.21.1-2.0.0.jar"
 hash = "5173b98c56413b436726d689dd50d417e77d6ea131b59feb719e1ba8009999d9"
 
@@ -747,6 +775,10 @@ file = "mods/placeholder-api-2.4.1+1.21.jar"
 hash = "4ff847074a09e4d66a94b0de278c732626f160c2d759f16e9e92001ab9a79b70"
 
 [[files]]
+file = "mods/player-animation-lib-fabric-2.0.1+1.21.1.jar"
+hash = "21745a2ba2cb41ff6e59f8a8453d14c887c02c1b1205b4d5e073d8aee5f61b6a"
+
+[[files]]
 file = "mods/plushables-fabric-2.0.3+1.21.1.jar"
 hash = "6f57bc71a08c4d594b94c65557ec88df6ee3608a708e7cb4928f23e8ca34da57"
 
@@ -761,6 +793,10 @@ hash = "fc2bd01a6d07df7e737be91d11d8b671d11a9e5ade25ee81a32c5a55dfc89c35"
 [[files]]
 file = "mods/prickle-fabric-1.21.1-21.1.6.jar"
 hash = "7e0529f42dd9d722bc648d8105ec99374575f0d75fece16c6672c37b792d8ed7"
+
+[[files]]
+file = "mods/randommobsizes-fabric-1.21.1-2.2.2.jar"
+hash = "798be1a21e6124c847b35ea43fab847225b1bfd881b9f6740ba2b65f3dca3bbd"
 
 [[files]]
 file = "mods/realisticbees-1.21.1-4.0.jar"
