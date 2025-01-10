@@ -171,6 +171,10 @@ file = "mods/FabricShieldLib-1.7.2-1.21.1.jar"
 hash = "ed78792595ce0410da1e88124429aaa95f6549a23d69af674acd53ef69fdb5bb"
 
 [[files]]
+file = "mods/FancyHealthBar-1.1.1.jar"
+hash = "7185165f3e8e9349acc7bbad7e51a14112ea9e085a1fbf2b2070f6f28d4a26a0"
+
+[[files]]
 file = "mods/FarmersDelight-1.21.1-2.2.8+refabricated.jar"
 hash = "b557e975a8f6f3d1b6aabdf1b30bdb0119534f8403567b616fd89bc7523df8db"
 
